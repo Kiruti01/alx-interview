@@ -13,7 +13,7 @@ Interview Algorithm practice
 - Time complexity (Big O notation)
 - Searching algorithms
 
-## Technologies & Tools:computer:
+## Technologies & Tools :computer:
 
 ![Git](https://img.shields.io/badge/≡-Git-F05032?logo=git&style=flat-square&labelColor=282828)
 ![Ubuntu](https://img.shields.io/badge/≡-Ubuntu-E95420?&style=flat-square&logo=Ubuntu&labelColor=282828)
