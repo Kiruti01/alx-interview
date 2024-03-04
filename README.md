@@ -4,7 +4,7 @@
 
 > Interview - Preparation
 
-## Description:bulb:
+## Description :bulb:
 
 Interview Algorithm practice
 
